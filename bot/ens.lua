@@ -257,7 +257,7 @@ function create_config( )
  E N S
 
 Sudo
-▕ Electrovirus▕
+▕ Me global-rezablack▕
 
 Github
 ▕ https://github.com/Electrovirus/E-N-S.git
